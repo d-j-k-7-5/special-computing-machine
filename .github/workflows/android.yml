@@ -1,3 +1,6 @@
+- name: Gradle Android
+
+  uses: Raul6469/android-gradle-action@2.0.0
 name: Android CI
 
 on:
